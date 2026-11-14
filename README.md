@@ -14,7 +14,7 @@ When the Epstein files were released between November 2025 and January 2026, whi
 
 **Records.** 31 public figures. The archive held 1,780,692 emails; after removing the two hacked sets (the Yahoo emails and Ehud Barak's emails published by DDoSecrets) and promotional mail, 1,748,681 remain. The clean daily pageview table has 14,539 rows.
 
-**What is in the repo.** The full cleaned data in `data/`, documented in [data/README.md](data/README.md).
+**What is in the repo.** The full cleaned data in `data/clean/`, documented in [data/README.md](data/README.md).
 
 **What I left out and why.** The raw email archive is not committed. It is about 330 MB, too large for GitHub, and it contains names and email addresses of private individuals, possibly including victims. Only the count of emails mentioning each public figure is kept. Raw API responses are also left out, because anyone can rebuild them by running the notebook.
 
