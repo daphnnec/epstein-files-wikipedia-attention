@@ -1,6 +1,6 @@
 # Data
 
-This folder holds the full cleaned data, which is small. The raw email archive and raw API responses are not committed; see the main README for why.
+The clean/ folder holds the full cleaned data, which is small. The raw email archive and raw API responses are not committed; see the main README for why.
 
 ## people.csv
 
